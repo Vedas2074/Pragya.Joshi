@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Datatypes
 {
 
@@ -7,6 +8,9 @@ class Datatypes
     }
 
 }    
+=======
+    
+>>>>>>> 15e0cfe3bd5864d0df63435b2e7cf1bf606bc90f
 //      public voild LearnDatatypes()
 
 //     int Sum(int firstNum, int secondNum)
