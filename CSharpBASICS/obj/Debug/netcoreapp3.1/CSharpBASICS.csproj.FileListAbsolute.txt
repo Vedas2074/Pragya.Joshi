@@ -1,0 +1,13 @@
+C:\Users\Dell\Desktop\2020\netcentric\CSharpBASICS\bin\Debug\netcoreapp3.1\CSharpBASICS.exe
+C:\Users\Dell\Desktop\2020\netcentric\CSharpBASICS\bin\Debug\netcoreapp3.1\CSharpBASICS.deps.json
+C:\Users\Dell\Desktop\2020\netcentric\CSharpBASICS\bin\Debug\netcoreapp3.1\CSharpBASICS.runtimeconfig.json
+C:\Users\Dell\Desktop\2020\netcentric\CSharpBASICS\bin\Debug\netcoreapp3.1\CSharpBASICS.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\2020\netcentric\CSharpBASICS\bin\Debug\netcoreapp3.1\CSharpBASICS.dll
+C:\Users\Dell\Desktop\2020\netcentric\CSharpBASICS\bin\Debug\netcoreapp3.1\CSharpBASICS.pdb
+C:\Users\Dell\Desktop\2020\netcentric\CSharpBASICS\obj\Debug\netcoreapp3.1\CSharpBASICS.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\2020\netcentric\CSharpBASICS\obj\Debug\netcoreapp3.1\CSharpBASICS.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\2020\netcentric\CSharpBASICS\obj\Debug\netcoreapp3.1\CSharpBASICS.AssemblyInfo.cs
+C:\Users\Dell\Desktop\2020\netcentric\CSharpBASICS\obj\Debug\netcoreapp3.1\CSharpBASICS.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\2020\netcentric\CSharpBASICS\obj\Debug\netcoreapp3.1\CSharpBASICS.dll
+C:\Users\Dell\Desktop\2020\netcentric\CSharpBASICS\obj\Debug\netcoreapp3.1\CSharpBASICS.pdb
+C:\Users\Dell\Desktop\2020\netcentric\CSharpBASICS\obj\Debug\netcoreapp3.1\CSharpBASICS.genruntimeconfig.cache
